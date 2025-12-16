@@ -324,14 +324,11 @@ ul {
   text-align: center;
 }
 
-.team-social {
-  margin-top: 8px;
-}
-
 .team-social-list {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
+  margin-top: 8px;
 }
 
 .team-social-item {
@@ -505,7 +502,7 @@ ul {
 .footer-left {
   margin-right: 120px;
 }
-.footer-social-list{
+.footer-social-list {
   gap: 16px;
 }
 
