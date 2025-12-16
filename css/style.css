@@ -335,6 +335,7 @@ ul {
   max-height: 40px;
 }
 .team-social-icon {
+  fill: #f4f4fd;
 }
 
 .team-social-item .social-link {
@@ -355,7 +356,6 @@ ul {
 .team-social-icon {
   width: 16px;
   height: 16px;
-  fill: #f4f4fd;
 
   transition-property: fill;
   transition-duration: 250ms;
