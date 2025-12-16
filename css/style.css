@@ -523,18 +523,13 @@ ul {
   height: 24px;
   fill: var(--fill-color);
 
-  transition-property: fill;
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 .footer-social .social-link:hover,
 .footer-social .social-link:focus {
   background-color: #31d0aa;
 }
 
-.footer-social .social-link:hover .team-social-icon,
-.footer-social .social-link:focus .team-social-icon {
-  fill: #ffffff;
-}
+
 
 /*Footer end*/
